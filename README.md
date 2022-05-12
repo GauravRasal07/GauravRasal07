@@ -17,10 +17,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=GauravRasal07&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
----
-
-<!-- [![](https://visitcount.itsvg.in/api?id=GauravRasal07&icon=4&color=6)](https://visitcount.itsvg.in) -->
-
 ## 🌐Socials
 
 <!-- <br/> -->
@@ -29,3 +25,9 @@
 <a href="https://instagram.com/___mr.gaurav_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mr.gaurav_77" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/gaurav-rasal-24820b191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaurav Rasal" height="20" width="30" /></a>
 </p>
+
+---
+
+<!-- [![](https://visitcount.itsvg.in/api?id=GauravRasal07&icon=4&color=6)](https://visitcount.itsvg.in) -->
+
+
