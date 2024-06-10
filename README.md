@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://gauravrasal.me/">Gaurav Rasal</a></h1>
-- 👨‍💻 I'm currently studying computer engineering at PCCoE, Pune
+- 👨‍💻 I'm Computer Engineering graduate from PCCoE, Pune. Currently working at Druva Data Solutions.
 <br/>
 - 📫 Reach me at <a href="mailto:gauravvr77@gmail.com">gauravvr77@gmail.com</a>
 
